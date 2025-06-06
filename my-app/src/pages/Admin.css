@@ -1,0 +1,10 @@
+
+.Admin_header {
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Candidate_Search_Container {
+}
